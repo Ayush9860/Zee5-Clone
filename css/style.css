@@ -31,9 +31,9 @@ img {
     margin-right: 10%;
     height:350px;
     /* object-fit: cover; */
-    border-radius: 10px;
-   box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(184, 137, 166, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
-}
+    border-radius: 20px;
+  }
+  
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -169,7 +169,6 @@ a{
     position: relative;
     transition: 00.3s;
     margin-right: 25px;
-    box-shadow: rgba(194, 130, 171, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
 }
 .card:hover{
     transform: scale(1.1);
